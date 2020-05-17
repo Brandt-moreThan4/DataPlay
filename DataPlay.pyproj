@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>7f118911-caf2-42a3-9d84-1c75dee3a2fa</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>module1.py</StartupFile>
+    <StartupFile>api.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -30,7 +30,7 @@
     <Compile Include="earthquakes.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="module1.py">
+    <Compile Include="api.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="temperature_graphing.py">
