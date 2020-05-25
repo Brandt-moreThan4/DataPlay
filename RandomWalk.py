@@ -13,7 +13,6 @@ class RandomWalk(object):
     def fill_walk(self):
         """calculate all the points on walk"""
 
-
         while len(self.x_vals) < self.num_points:
 
             x_direction = choice([-1,1])
